@@ -1,6 +1,4 @@
-/*  git hub link to this course 
-https://github.com/smartcontractkit/full-blockchain-solidity-course-py
- */
+
 
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.6.0;
